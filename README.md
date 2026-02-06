@@ -1,20 +1,16 @@
 # LIBFT
-The project consist of coding a custom C library by re-implementing standard functions from scratch.
 
-## Technologies used
-- Language
-	- C
-- Tools
-	- Makefile
-- Norm
-	- [42 norminette](https://github.com/42school/norminette)
+Libft is a custom C library developed as part of the 42 School curriculum.
+It consists of recreating some standard C library functions from scratch.
+I will be reused in future throughout the 42 curriculum.
 
-## What I Learned
-- Understand and manipulating memory in C (eg: memcpy, malloc)
-- Handle strings and characters
-- Build and manage linked lists
-- Create reusable and modalar code
-- Write header files and static libraries
+## Skills developed
+- C programming fundamentals
+- Memory management: malloc, free
+- Pointer manipulation
+- String, array and list handling
+- Code modularity and reusability
+- Respect of strict coding standards: [42 norm](https://github.com/42school/norminette)
 
 ## How to run
 ```make```
